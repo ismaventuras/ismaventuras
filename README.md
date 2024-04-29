@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![𝕝𝕠-𝕗𝕚 𝕒𝕝𝕨𝕒𝕪𝕤 𝕠𝕟 𝕨𝕙𝕚𝕝𝕖 𝕔𝕠𝕕𝕚𝕟𝕘](https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif)
+
+[![Linkedin: Ismael ](https://img.shields.io/badge/Ismael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelbautista/)](https://www.linkedin.com/in/ismaelbautista/)
+![Twitter Follow](https://img.shields.io/twitter/follow/ismaelbdev?style=social)
+[![GitHub ismaventuras](https://img.shields.io/github/followers/ismaventuras?label=follow&style=social)](https://github.com/ismaventuras)
+
 
 <!--
 **ismaventuras/ismaventuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
